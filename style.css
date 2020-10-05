@@ -1,0 +1,103 @@
+body{
+font-family:arial;
+margin:0;
+padding:0:
+}
+#main{
+background-image:linear-gradient(#E9ECEF,white,white);
+}
+.me {
+height:40px;
+width:40px;
+background-color:white;
+border-radius:50px;
+}
+.icon{
+margin-top:10px;
+height:15px;
+width:15px;
+}
+nav{
+height:60px;
+margin-right:100px;
+}
+.otp{
+margin:25px 60px;
+height:60px;
+}
+nav ul{
+float:right;
+margin-right:30px;
+}
+
+nav ul li{
+list-style:none;
+display:inline-block;
+}
+
+nav ul li a{
+display:block;
+padding: 15px 15px;
+text-decoration:none;
+}
+
+nav ul ul{
+position:absolute;
+display:none;
+
+}
+
+nav ul li:hover > ul{
+display:block;
+}
+
+nav ul ul li{
+width:150px;
+float:none;
+display:list-item;
+position:relative;
+}
+
+.banner{
+margin-left:100px;
+margin-top:100px;
+}
+.heading{
+font-size:30px;
+}
+.btn{
+background-color:blue;
+padding:8px 12px;
+color:white;
+border-radius:5px;
+text-decoration:none;
+}
+.img1{
+float:right;
+height:500px;
+width:400px;
+margin-top:-200px;
+border-bottom-left-radius: 250px;
+border-top-left-radius: 25px;
+z-index: -1;
+}
+.box{
+width:1200px;
+margin-top:300px;
+background-color:white;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+text-align:center;
+margin-left:100px;
+margin-top:100px;
+margin-bottom:100px;
+border-radius:10px;
+}
+.photo{
+display:inline-block;
+margin:50px;
+}
+
+.xy{
+float:left;
+margin:-20px 0px 10px 190px;
+}
