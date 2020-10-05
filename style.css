@@ -36,10 +36,10 @@ display:inline-block;
 }
 
 nav ul li a{
-color:black;
 display:block;
 padding: 15px 15px;
 text-decoration:none;
+color:black;
 }
 
 nav ul ul{
