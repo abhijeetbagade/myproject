@@ -68,7 +68,7 @@ text-decoration:none;
 }
 
 .btn1:hover{
-background-color:orange;
+background-color:#F69836;
 color:white;
 border:none;
 margin-top:130px;
@@ -86,7 +86,7 @@ width:300px;
 border-radius:5px;
 }
 .btn2:hover{
-background-color:orange;
+background-color:#F69836;
 color:white;
 border:none;
 margin-top:5px;
@@ -95,7 +95,7 @@ width:300px;
 border-radius:5px;
 }
 .clr{
-color:orange;
+color:#F69836;
 }
 small{
 color:black;
