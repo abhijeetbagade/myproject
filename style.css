@@ -12,11 +12,10 @@ font-family:sans-serif;
 .container
 {
 background-image:url("WhatsApp_Image_2020-10-29_at_6.27.12_PM__3_-removebg-preview.png");
-height:650px;
-width:400px;
+height:100%;
+width:100%;
 background-repeat:no-repeat;
 border-radius:40px;
-text-align:center;
 }
 
 .img1{
